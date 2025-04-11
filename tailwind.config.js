@@ -41,8 +41,8 @@ module.exports = {
     extend: {
       backgroundImage: {
         "gradient-1":
-          "linear-gradient(55.15deg, #007ACC -7.09%, #37B7FF 101.48%)",
-        "gradient-2": "linear-gradient(120.12deg, #FF8FE8 0%, #FFC960 100%)",
+          "linear-gradient(55.15deg, #007ACC -7.09%, #E0F7FF 101.48%)",
+        "gradient-2": "linear-gradient(120.12deg, #FF8FE8 0%, #EE9090 100%)",
         "gradient-3":
           "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.8) 100%)",
         texture: "url('../images/graphics/texture.svg')",
